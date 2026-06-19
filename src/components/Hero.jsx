@@ -17,8 +17,9 @@ export default function Hero() {
         backgroundImage:
           "url('https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1600&q=80')",
         backgroundSize: "cover",
-        backgroundPosition: "center",
-        backgroundAttachment: "fixed",
+        backgroundPosition: "center center",
+        backgroundRepeat: "no-repeat",
+        backgroundAttachment: "scroll",
       }}
     >
       {/* Dark overlay for readability */}
