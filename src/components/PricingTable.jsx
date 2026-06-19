@@ -43,6 +43,7 @@ const PACKAGES = [
       "End-to-end automation layouts",
       "Multi-zone sensor networks",
       "Custom crop rotation schedules",
+      "Structural fabrication & build planning",
       "Staff training & SOPs",
       "Ongoing retainer available",
     ],
@@ -70,7 +71,7 @@ export default function PricingTable() {
               fontWeight: 600,
             }}
           >
-            Consulting built around your scale.
+            Consulting, fabrication, and construction built around your scale.
           </h2>
           <p
             className="mt-4 text-base sm:text-lg"

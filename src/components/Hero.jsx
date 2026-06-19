@@ -39,7 +39,7 @@ export default function Hero() {
             }}
           >
             <SproutMark className="w-3.5 h-3.5" style={{ color: "#86efac" }} />
-            Greenhouse consulting · all crops
+            Greenhouse consulting · fabrication & construction
           </div>
           <h1
             className="font-display leading-[0.98] tracking-tight"
@@ -61,9 +61,9 @@ export default function Hero() {
               textShadow: "0 2px 8px rgba(0,0,0,0.3)",
             }}
           >
-            Expert consulting to help you design, automate, and grow healthy
-            crops year-round. From leafy greens to exotic flowers, we engineer
-            the conditions for your success.
+            Expert consulting to help you design, automate, fabricate, build,
+            and grow healthy crops year-round. From leafy greens to exotic
+            flowers, we engineer the conditions for your success.
           </p>
           <div className="mt-9 flex flex-wrap items-center gap-3 sm:gap-4">
             <a

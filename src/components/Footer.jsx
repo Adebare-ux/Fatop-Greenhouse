@@ -26,8 +26,9 @@ export default function Footer() {
               className="text-sm leading-relaxed"
               style={{ color: "var(--ink-faint)" }}
             >
-              Expert consulting for greenhouse growers at every scale — from a
-              single polytunnel to a commercial multi-zone operation.
+              Expert consulting, greenhouse fabrication, and construction
+              support for growers at every scale — from a single polytunnel to a
+              commercial multi-zone operation.
             </p>
           </div>
           <div>
