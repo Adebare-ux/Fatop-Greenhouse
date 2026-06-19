@@ -1,5 +1,5 @@
 import { useTheme } from "./hooks/useTheme";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/NavBar";
 import Hero from "./components/Hero";
 import CropExpertise from "./components/CropExpertise";
 import PricingTable from "./components/PricingTable";
