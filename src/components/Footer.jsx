@@ -71,7 +71,7 @@ export default function Footer() {
                   style={{ color: "var(--ink-soft)" }}
                 >
                   <Phone size={13} style={{ color: "var(--accent)" }} />
-                  (123) 456-7890
+                  +2349039777091
                 </a>
               </li>
               <li>
@@ -81,7 +81,7 @@ export default function Footer() {
                   style={{ color: "var(--ink-soft)" }}
                 >
                   <Mail size={13} style={{ color: "var(--accent)" }} />
-                  hello@fatopgreenhouse.com
+                  fatopglobalservices@gmail.com
                 </a>
               </li>
             </ul>

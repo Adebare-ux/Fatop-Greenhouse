@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 
 // 👇 SWAP THIS with your real Calendly URL
-const CALENDLY_URL = "https://calendly.com/YOUR_USERNAME/YOUR_EVENT";
+const CALENDLY_URL = "https://calendly.com/fataitoheeb041";
 
 export default function Scheduler() {
   const containerRef = useRef(null);
@@ -84,7 +84,7 @@ export default function Scheduler() {
             >
               <p>
                 Please enable JavaScript to view the booking calendar, or{" "}
-                <a href="tel:+1234567890" style={{ color: "var(--accent)" }}>
+                <a href="tel:+2349039777091" style={{ color: "var(--accent)" }}>
                   call us directly
                 </a>
                 .

@@ -20,7 +20,7 @@ export default function Navbar({ theme, toggleTheme }) {
             className="font-display text-lg sm:text-xl tracking-tight"
             style={{ color: "var(--ink)" }}
           >
-            Fatop <span style={{ color: "var(--accent)" }}>Greenhouse</span>
+            Fatop <span style={{ color: "var(--accent)" }}>Agro</span>
           </span>
         </a>
         <div className="flex items-center gap-2 sm:gap-3">
@@ -40,10 +40,10 @@ export default function Navbar({ theme, toggleTheme }) {
             style={{ borderColor: "var(--line-strong)", color: "var(--ink)" }}
           >
             <Phone size={14} />
-            (123) 456-7890
+            +2349039777091
           </a>
           <a
-            href="tel:+1234567890"
+            href="tel:+2349039777091"
             aria-label="Call Fatop Greenhouse"
             className="sm:hidden w-9 h-9 rounded-full grid place-items-center border"
             style={{ borderColor: "var(--line-strong)", color: "var(--ink)" }}

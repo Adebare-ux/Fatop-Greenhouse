@@ -4,7 +4,7 @@ const PACKAGES = [
   {
     tier: "Tier 1",
     name: "Growth Blueprint",
-    price: "$490",
+    price: "₦700,000",
     tagline: "Ideal for beginners",
     highlight: false,
     features: [
@@ -20,7 +20,7 @@ const PACKAGES = [
   {
     tier: "Tier 2",
     name: "Commercial Scale-Up",
-    price: "$1,490",
+    price: "₦2.1M",
     tagline: "Ideal for working farms",
     highlight: true,
     features: [

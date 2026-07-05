@@ -1,7 +1,6 @@
 import { LeafBadge } from "./BotanicalMarks";
 
-const EXPERTISE_IMAGE =
-  "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80";
+const EXPERTISE_IMAGE = "https://greenhouse.ng/images/slider/7.jpg";
 
 const ZONES = [
   {
